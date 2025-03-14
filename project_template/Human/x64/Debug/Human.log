@@ -1,0 +1,3 @@
+﻿  d3dUtility.cpp
+D:\college\term6\TA_Graphic\ComputerGraphicsDirectX12Codes-master\Project\Human\d3dUtility.cpp(147,15): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  Human.vcxproj -> D:\college\term6\TA_Graphic\ComputerGraphicsDirectX12Codes-master\Project\x64\Debug\Human.exe
