@@ -52,19 +52,19 @@
 
 ## 🛠️ نحوه نصب DirectX
 
-<div dir="rtl">
+<p dir="rtl">
 
 برای شروع کار با پروژه‌های DirectX، مراحل زیر را دنبال کنید:
 
-1. **نصب Visual Studio**:
-   - به [Visual Studio Downloads](https://visualstudio.microsoft.com/downloads/) بروید و نسخه **Community** یا نسخه مناسب خود را دانلود کنید.
-   - هنگام نصب، گزینه **Desktop development with C++** را انتخاب کنید تا ابزارهای لازم برای توسعه پروژه‌های DirectX نصب شوند.
 
-2. **نصب DirectX SDK**:
-   - برای نصب Directx SDK از لینک های زیر استفاده کنید.
-     - لینک مستقیم: [دانلود DirectX SDK](https://download.microsoft.com/download/a/e/7/ae743f1f-632b-4809-87a9-aa1bb3458e31/DXSDK_Jun10.exe)
-     - لینک غیر مستقیم: [DirectX SDK ](https://www.microsoft.com/en-us/download/details.aspx?id=6812)
+1. **Install Visual Studio**:
+   - Go to [Visual Studio Downloads](https://visualstudio.microsoft.com/downloads/) and download the **Community** version or the version that suits your needs.
 
-پس از نصب این ابزارها، شما آماده‌اید تا پروژه‌های DirectX خود را شروع کنید.
+   - During the installation, select **Desktop development with C++** to install the necessary tools for developing DirectX projects.
 
-</div>
+2. **Install DirectX SDK**:
+   - Use the following links to install the DirectX SDK:
+     - Direct link: [Download DirectX SDK](https://download.microsoft.com/download/a/e/7/ae743f1f-632b-4809-87a9-aa1bb3458e31/DXSDK_Jun10.exe)
+     - Indirect link: [DirectX SDK](https://www.microsoft.com/en-us/download/details.aspx?id=6812)
+
+After installing these tools, you are ready to start your DirectX projects.
