@@ -67,4 +67,11 @@
      - Direct link: [Download DirectX SDK](https://download.microsoft.com/download/a/e/7/ae743f1f-632b-4809-87a9-aa1bb3458e31/DXSDK_Jun10.exe)
      - Indirect link: [DirectX SDK](https://www.microsoft.com/en-us/download/details.aspx?id=6812)
 
-After installing these tools, you are ready to start your DirectX projects.
+3. **Resolve Error Code: S1023 during DirectX installation**:
+   - If you encounter the error **Error Code: S1023**, open **CMD as Administrator** and run the following commands one by one:
+   
+   ```bash
+   MsiExec.exe /passive /X{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}
+   MsiExec.exe /passive /X{1D8E6291-B0D5-35EC-8441-6616F567A0F7}
+   ```
+
